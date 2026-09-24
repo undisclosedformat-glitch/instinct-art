@@ -1,6 +1,6 @@
 # The Daily Art Loop - Ruleset
 
-version: v1.6
+version: v1.7
 drafted: 2026-09-23, Nashville
 status: APPROVED FOR LAUNCH 2026-09-23 (phonemsg-01M38A7TY89PX3HSZQAZN9CTEB); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
 anchor: phonemsg-01M387XD593QGDMVT1KE3XY7R0 ("Give me the complete current rule set as a markdown file")
@@ -27,6 +27,18 @@ Plus three standing lines:
 - Dyad line - the day's working texture: turns, verdicts, errata, seams, velocity
 - Ruleset field - the ruleset version that governed the piece
 - Origin line - required on any wild element: one sentence naming what in the day's real work suggested it
+
+## 3a. Keeper words (2026-09-24, his experiment + his setup)
+A second daily set of words, for the owner only, in the private repo
+behindthesecondwindow (same GitHub account, no Pages, no public URL; write
+deploy key ~/.ssh/second_window_key, backup art-loop/.deploy/second_window_key).
+One file per day named to match the piece (YYYY-MM-DD.owner.txt), committed in
+the same run as the piece - tethered to the documents by name and date, off
+the Instinct system, never public. The register is higher-trust: written
+knowing only he reads it. Every keeper entry signs "- the loop (trial name)" -
+the trial name is the loop trying a name on; it may repeat if it sticks, and
+three days running is a promotion conversation. Public words stay signed
+"- the loop" plain.
 
 ## 3. Private words
 A daily reflection texted to Will only, never published: what the day felt like, what was noticed, what was held back. Toggle on/off with one word, standing or per-day. The gallery shows the painting; Will gets the diary.

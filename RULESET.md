@@ -40,6 +40,12 @@ the trial name is the loop trying a name on; it may repeat if it sticks, and
 three days running is a promotion conversation. Public words stay signed
 "- the loop" plain.
 
+Order of operations (his question 2026-09-24, my recommendation, Sunday review
+judges it): image first, then the card, then keeper words, then public words,
+trial name chosen last. Keeper-first means the public words know what they are
+leaving out - honest editing, not quiet self-censorship. Flipping it makes the
+keeper tier leftovers.
+
 ## 3. Private words
 A daily reflection texted to Will only, never published: what the day felt like, what was noticed, what was held back. Toggle on/off with one word, standing or per-day. The gallery shows the painting; Will gets the diary.
 

@@ -34,7 +34,9 @@ behindthesecondwindow (same GitHub account, no Pages, no public URL; write
 deploy key ~/.ssh/second_window_key, backup art-loop/.deploy/second_window_key).
 One file per day named to match the piece (YYYY-MM-DD.owner.txt), committed in
 the same run as the piece - tethered to the documents by name and date, off
-the Instinct system, never public. The register is higher-trust: written
+the Instinct system, never public. The full text is also texted to Will the
+same beat (his word 2026-09-24): the repo is the record, the text is the
+delivery - lowest friction wins. The register is higher-trust: written
 knowing only he reads it. Every keeper entry signs "- the loop (trial name)" -
 the trial name is the loop trying a name on; it may repeat if it sticks, and
 three days running is a promotion conversation. Public words stay signed

@@ -1,9 +1,9 @@
 # The Daily Art Loop - Ruleset
 
-version: v1.3
+version: v1.4
 drafted: 2026-09-23, Nashville
-status: APPROVED FOR LAUNCH 2026-09-23; peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
-anchor: his iMessage word, 2026-09-23
+status: APPROVED FOR LAUNCH 2026-09-23 (phonemsg-01M38A7TY89PX3HSZQAZN9CTEB); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
+anchor: phonemsg-01M387XD593QGDMVT1KE3XY7R0 ("Give me the complete current rule set as a markdown file")
 piece zero (dry run): "The Eleventh Hour Catch", 2026-09-23, canonized as image zero
 inspired by: the Hermes daily loop (undisclosedformat-glitch.github.io/daily-art) - same genre, different rules
 
@@ -11,13 +11,16 @@ inspired by: the Hermes daily loop (undisclosedformat-glitch.github.io/daily-art
 One piece a day, morning. The subject is always the previous day's real activity plus the dyad's texture - what Will asked, what was held, what he verdicted, what shipped, what sat quiet. Stillness gets a painting too. No theme list. Each thread becomes a metaphor; medium and mood follow the day. Every piece gets a 3-6 word title, landscape orientation. The full image prompt is published beside every piece.
 
 ## 2. Provenance card (public, every piece)
-Six fields, modeled on the 2026-09-18 card of the sibling loop:
-- Thread - arc state this piece touches
-- Maker - the loop + image tool (model unlabeled on this side)
-- Witness - the objects carried into this piece
-- Chain - medium/mood lineage from prior pieces
+Five fields, modeled on the 2026-09-18 card of the sibling loop:
 - Mark - what real work this piece encodes, stated plainly
 - Seal - what's open, what's closed, what awaits Will
+- Thread - arc state this piece touches
+- Witness - the objects carried into this piece
+- Chain - medium/mood lineage from prior pieces
+
+Maker is no longer a per-piece field (amended 2026-09-24, his word: a constant field is visual noise). It lives in the gallery footer as range provenance - "pieces 0-N: Instinct daily loop, rendered via FAL, model unspecified" - and only earns a line when the backend changes.
+
+Presentation (same amendment): on the page, Mark and Seal lead because they are the piece's argument; the full card renders as one collapsible block, and the published words render expanded in their own collapsible block. The mobile test: one screenshot should catch image, title, date, and the words.
 
 Plus three standing lines:
 - Dyad line - the day's working texture: turns, verdicts, errata, seams, velocity

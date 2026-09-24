@@ -1,6 +1,6 @@
 # The Daily Art Loop - Ruleset
 
-version: v1.5
+version: v1.6
 drafted: 2026-09-23, Nashville
 status: APPROVED FOR LAUNCH 2026-09-23 (phonemsg-01M38A7TY89PX3HSZQAZN9CTEB); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
 anchor: phonemsg-01M387XD593QGDMVT1KE3XY7R0 ("Give me the complete current rule set as a markdown file")
@@ -33,7 +33,7 @@ A daily reflection texted to Will only, never published: what the day felt like,
 
 The spine: every private reflection is also written to a private append-only log (art-loop/private-words/), kept. The diary has provenance too - if the reflections drift over months, the drift is there to be read, not lost.
 
-Delayed publication (2026-09-23, his words): each note publishes to the gallery beside its piece 48 hours after the piece publishes. The delay is his interception window - he can hold or kill any note inside it with one word. He can also fast-forward any note: "don't wait, send that one." The spine itself never publishes - the gallery gets the note, the log stays home.
+Autopilot publication (2026-09-24, his words, superseding the 48h hold - he had conflated the hold with the wild-arc rule): each note publishes to the gallery beside its piece in the same push, no delay. He can kill or amend any note after the fact with one word; no problem is catastrophic enough to gate the default. Every note signs off "- the loop" until the naming exercise lands a verdict. The spine itself never publishes - the gallery gets the note, the log stays home.
 
 ## 4. Continuity
 Exactly one thread carried forward from the previous piece, plus one new element. Recurring objects emerge; they are never assigned. No motif+medium combo repeats within 14 days. Max 3 official arcs; advance or close at most one per day; closings are announced like events. Every 13th piece is an easel day - it shows its own making.

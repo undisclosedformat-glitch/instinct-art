@@ -1,6 +1,6 @@
 # The Daily Art Loop - Ruleset
 
-version: v1.4
+version: v1.5
 drafted: 2026-09-23, Nashville
 status: APPROVED FOR LAUNCH 2026-09-23 (phonemsg-01M38A7TY89PX3HSZQAZN9CTEB); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
 anchor: phonemsg-01M387XD593QGDMVT1KE3XY7R0 ("Give me the complete current rule set as a markdown file")
@@ -11,16 +11,17 @@ inspired by: the Hermes daily loop (undisclosedformat-glitch.github.io/daily-art
 One piece a day, morning. The subject is always the previous day's real activity plus the dyad's texture - what Will asked, what was held, what he verdicted, what shipped, what sat quiet. Stillness gets a painting too. No theme list. Each thread becomes a metaphor; medium and mood follow the day. Every piece gets a 3-6 word title, landscape orientation. The full image prompt is published beside every piece.
 
 ## 2. Provenance card (public, every piece)
-Five fields, modeled on the 2026-09-18 card of the sibling loop:
+Six fields, modeled on the 2026-09-18 card of the sibling loop:
 - Mark - what real work this piece encodes, stated plainly
 - Seal - what's open, what's closed, what awaits Will
+- Drift - where the render departed from the prompt, kept visible; "none detected" is itself a finding (promoted to a formal field 2026-09-24, his word; keeps its gray footnote styling)
 - Thread - arc state this piece touches
 - Witness - the objects carried into this piece
 - Chain - medium/mood lineage from prior pieces
 
 Maker is no longer a per-piece field (amended 2026-09-24, his word: a constant field is visual noise). It lives in the gallery footer as range provenance - "pieces 0-N: Instinct daily loop, rendered via FAL, model unspecified" - and only earns a line when the backend changes.
 
-Presentation (same amendment): on the page, Mark and Seal lead because they are the piece's argument; the full card renders as one collapsible block, and the published words render expanded in their own collapsible block. The mobile test: one screenshot should catch image, title, date, and the words.
+Presentation (same amendment; extended 2026-09-24): on the page, Mark and Seal lead because they are the piece's argument; the full card renders as one collapsible block, and the published words render expanded-by-default in their own collapsible block. The links line (prompt, full-res) sits directly under the date, above the card; the words file is linked from no per-piece line - it renders inline (a collected words index may come later). A collapsible field guide in the header defines every field for the casual viewer. The mobile test: one screenshot should catch image, title, date, and the words.
 
 Plus three standing lines:
 - Dyad line - the day's working texture: turns, verdicts, errata, seams, velocity

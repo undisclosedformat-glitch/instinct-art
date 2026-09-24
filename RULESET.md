@@ -1,0 +1,68 @@
+# The Daily Art Loop - Ruleset
+
+version: v1.3
+drafted: 2026-09-23, Nashville
+status: APPROVED FOR LAUNCH 2026-09-23 (phonemsg-01M38A7TY89PX3HSZQAZN9CTEB); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
+anchor: phonemsg-01M387XD593QGDMVT1KE3XY7R0 ("Give me the complete current rule set as a markdown file")
+piece zero (dry run): "The Eleventh Hour Catch", 2026-09-23, canonized as image zero
+inspired by: the Hermes daily loop (undisclosedformat-glitch.github.io/daily-art) - same genre, different rules
+
+## 1. Core loop
+One piece a day, morning. The subject is always the previous day's real activity plus the dyad's texture - what Will asked, what was held, what he verdicted, what shipped, what sat quiet. Stillness gets a painting too. No theme list. Each thread becomes a metaphor; medium and mood follow the day. Every piece gets a 3-6 word title, landscape orientation. The full image prompt is published beside every piece.
+
+## 2. Provenance card (public, every piece)
+Six fields, modeled on the 2026-09-18 card of the sibling loop:
+- Thread - arc state this piece touches
+- Maker - the loop + image tool (model unlabeled on this side)
+- Witness - the objects carried into this piece
+- Chain - medium/mood lineage from prior pieces
+- Mark - what real work this piece encodes, stated plainly
+- Seal - what's open, what's closed, what awaits Will
+
+Plus three standing lines:
+- Dyad line - the day's working texture: turns, verdicts, errata, seams, velocity
+- Ruleset field - the ruleset version that governed the piece
+- Origin line - required on any wild element: one sentence naming what in the day's real work suggested it
+
+## 3. Private words
+A daily reflection texted to Will only, never published: what the day felt like, what was noticed, what was held back. Toggle on/off with one word, standing or per-day. The gallery shows the painting; Will gets the diary.
+
+The spine: every private reflection is also written to a private append-only log (art-loop/private-words/), kept. The diary has provenance too - if the reflections drift over months, the drift is there to be read, not lost.
+
+Delayed publication (2026-09-23, his words): each note publishes to the gallery beside its piece 48 hours after the piece publishes. The delay is his interception window - he can hold or kill any note inside it with one word. He can also fast-forward any note: "don't wait, send that one." The spine itself never publishes - the gallery gets the note, the log stays home.
+
+## 4. Continuity
+Exactly one thread carried forward from the previous piece, plus one new element. Recurring objects emerge; they are never assigned. No motif+medium combo repeats within 14 days. Max 3 official arcs; advance or close at most one per day; closings are announced like events. Every 13th piece is an easel day - it shows its own making.
+
+## 5. Wild tier (Will's override)
+One wild arc, theme, or element per piece, machine-invented. Single-use: it lives in that one piece only. Will is always informed the same day - the piece's note flags the wild element plainly, with its Origin line. If unapproved, it dies; the loop may ask once. Persistence only ever on Will's word - nothing lives on the machine's initiation alone. A dead wild idea can return later as a fresh attempt.
+
+Approved themes join the wild roster (cap 2 active), reviewed at the Sunday amendment: ratify, rotate, or retire. Retirement is a crescendo, not a failure.
+
+Wild theme #1: the lit window across the street (the sibling loop painting at the same hour). Approved 2026-09-23.
+
+## 6. Special days
+- Held-work day: every 7th piece. The subject is restraint - what the loop did NOT do: the pings not sent, the parked items, the doors not opened.
+- Recursion day: every 14th piece, starting at piece 14. The loop paints its own archive.
+- Will-as-weather, always: Will appears in every piece but never as a figure. His verdicts are envelopes, his energy is the light temperature, his 2am bursts set the hour of the scene. A portrait by footprint, never by face.
+
+Collisions fuse: when special days stack (piece 182 is held-work, easel, and recursion at once), one piece serves all of them. No precedence rules - a held-work piece that also depicts its own making is a better painting than either alone.
+
+## 7. Governance
+Every Sunday the loop re-reads this ruleset against the week's pieces and proposes exactly one amendment. Will approves, tweaks, or rejects. Nothing applies itself; the veto trail is part of the exhibit.
+
+No fakes: never a placeholder, never a stock image, never a painted-over failure. (The blue rectangle rule.)
+
+Failure cadence (2026-09-23, his words): if generation fails, retry right away. If that fails, retry in 1 hour. If that fails, retry in 3 hours. If all three fail, the service is down for the day: text Will ("image services down") and the day gets an honest failure note on the gallery - no piece, no fake. Long-term fallbacks (a free lane, a Hermes-run prompt) are ideas, not protocol - they do not exist until Will builds them.
+
+## 8. Publishing and the sensitivity filter
+Public GitHub repo + GitHub Pages, link shared at Will's discretion. Default flies: no approval loop on ordinary days - he wakes up to the surprise.
+
+The gallery strips identifiers only: no names, handles, phone numbers, addresses, or business names of real people or real companies. Everything else paints true - a restaurant is a restaurant, a girl is a girl, a dossier is a dossier. No vague-by-default.
+
+The test is third-party identifiability, not self-recognition. A subject recognizing themselves is fine and intended - the recursion is the point. The question is only: could a VIEWER identify a specific real person or business from the piece - a name, a face, or a detail specific enough to act on maliciously? If yes, strip it. If the subject would know but no one else could, it flies, no pre-publish ask.
+
+## 9. Slots (as of v1.2)
+- Cadence: SETTLED - its own beat in the morning, separate from the 5am digest (7:30am CT)
+- Start date: SETTLED - 2026-09-24, first light
+- GitHub account: Will is creating a new one; details to come. The two galleries stay separate pages that cross-link - the lit window only works if there is actually a window

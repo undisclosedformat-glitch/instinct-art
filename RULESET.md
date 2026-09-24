@@ -2,8 +2,8 @@
 
 version: v1.3
 drafted: 2026-09-23, Nashville
-status: APPROVED FOR LAUNCH 2026-09-23 (phonemsg-01M38A7TY89PX3HSZQAZN9CTEB); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
-anchor: phonemsg-01M387XD593QGDMVT1KE3XY7R0 ("Give me the complete current rule set as a markdown file")
+status: APPROVED FOR LAUNCH 2026-09-23; peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
+anchor: his iMessage word, 2026-09-23
 piece zero (dry run): "The Eleventh Hour Catch", 2026-09-23, canonized as image zero
 inspired by: the Hermes daily loop (undisclosedformat-glitch.github.io/daily-art) - same genre, different rules
 

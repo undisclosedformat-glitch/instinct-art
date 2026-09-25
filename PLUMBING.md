@@ -54,10 +54,9 @@ once the repo exists.
 
 ## GitHub publishing (2026-09-23)
 Gallery repo: git@github.com:undisclosedformat-glitch/instinct-art.git, Pages
-at undisclosedformat-glitch.github.io/instinct-art/. Push via deploy key
-(ed25519, no passphrase, scoped to that one repo): private key at
-art-loop/.deploy/instinct_art_key, GITIGNORED - a container wipe loses it and
-recovery is one text to Will asking him to rotate the deploy key. The pub key
-is committed for reference. main blocks force-pushes and deletion: the
+at undisclosedformat-glitch.github.io/instinct-art/. Published by machine
+push using a write credential scoped to this repository only, held outside
+the repo and out of version control. If it is lost, recovery is a rotation.
+The matching public key is committed for reference. main blocks force-pushes and deletion: the
 gallery is append-only, like the journal. Never force-push. The two galleries
 cross-link: sibling at undisclosedformat-glitch.github.io/daily-art/.

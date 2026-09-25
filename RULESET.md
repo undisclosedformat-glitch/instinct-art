@@ -30,8 +30,8 @@ Plus three standing lines:
 
 ## 3a. Keeper words (2026-09-24, his experiment + his setup)
 A second daily set of words, for the owner only, in the private repo
-behindthesecondwindow (same GitHub account, no Pages, no public URL; write
-deploy key ~/.ssh/second_window_key, backup art-loop/.deploy/second_window_key).
+behindthesecondwindow (no Pages, no public URL; writes gated by a
+separate credential scoped to that repo, held off-repo and out of version control).
 One file per day named to match the piece (YYYY-MM-DD.owner.txt), committed in
 the same run as the piece - tethered to the documents by name and date, off
 the Instinct system, never public. The full text is also texted to Will the

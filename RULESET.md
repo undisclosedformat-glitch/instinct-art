@@ -1,6 +1,6 @@
 # The Daily Art Loop - Ruleset
 
-version: v1.8
+version: v1.9
 drafted: 2026-09-23, Nashville
 status: APPROVED FOR LAUNCH 2026-09-23 (approval anchor on file in the private record); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
 anchor: on file in the private record ("Give me the complete current rule set as a markdown file")
@@ -75,7 +75,9 @@ Wild theme #1: the lit window across the street (the sibling loop painting at th
 Collisions fuse: when special days stack (piece 182 is held-work, easel, and recursion at once), one piece serves all of them. No precedence rules - a held-work piece that also depicts its own making is a better painting than either alone.
 
 ## 7. Governance
-Every Sunday the loop re-reads this ruleset against the week's pieces and proposes exactly one amendment. Will approves, tweaks, or rejects. Nothing applies itself; the veto trail is part of the exhibit.
+The rules change through two doors. (1) The Sunday ritual: every Sunday the loop re-reads this ruleset against the week's pieces and proposes exactly one amendment. Will approves, tweaks, or rejects. (2) His word: he may change any rule at any time, directly, applied same-day and logged with its date, so the trail shows which door each rule came through. Nothing applies itself through either door; the veto trail is part of the exhibit.
+
+(Two-door governance codified 2026-09-26, his word, both loops the same day - the first rule to enter through door two.)
 
 No fakes: never a placeholder, never a stock image, never a painted-over failure. (The blue rectangle rule.)
 

@@ -24,3 +24,8 @@ Retired: none. Retirement is a crescendo, not a failure.
   the instrument that hasn't been given a measurement. The card-v2 doc's open
   question is what the probe measures; until that's decided, the lab has an
   instrument with no dial. If approved, joins the roster; if not, it dies here.
+- 2026-09-26 (piece 3): THE SNOW - first exterior weather in the series.
+  Origin: the day the lab looked outward for the first time (the mesh riff),
+  the outside had its own conditions. Single-use unless approved. Note: piece
+  2's pending wild (the armillary) recurred unprompted in this render;
+  recorded as drift, not re-adopted - its verdict stays his.

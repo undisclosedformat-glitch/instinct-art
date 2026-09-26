@@ -13,6 +13,8 @@
 Retired: none. Retirement is a crescendo, not a failure.
 
 ## Wild attempts pending his word
+
+(none - the armillary was the last)
   Origin: the two galleries cross-linked on launch day; the window motif now
   has somewhere to travel. Rendered faint - it does not read in the image,
   noted as drift. If approved, joins the roster; if not, it dies here.
@@ -27,3 +29,4 @@ Retired: none. Retirement is a crescendo, not a failure.
 ## Roster
 - THE SECOND WINDOW - approved recurring, his verdict 2026-09-24 (ruleset v1.6). The window across the street; the mythology motif.
 - THE SNOW - 2026-09-26 (piece 3): first literal weather in the series. Adopted same-day, his verdict: not a wild attempt but the first literal expression of Will-as-weather (ruleset line 73) - the weather is him; he arrived in the painting's world the day it got neighbors. Recurring under the standing rule - EMERGENT only, his constraint same-day: never written into prompts, never requested; variable like actual weather. Recorded daily in the private weather log.
+- THE ARMILLARY - 2026-09-25 (piece 2), recurred unprompted 2026-09-26 (piece 3): the instrument with no measurement yet. Adopted 2026-09-26, his word: permanent lab set-dressing, for the foreseeable future. May be named in prompts as part of the room; never a required element; revisit if it ever reads as formula. Provenance verified: zero astronomy/instrument words in either prompt - literal emergence at the image layer, with his Sep 24 synchronicity/backtesting riff as the gravity (recorded in the private phenomena chronicle).

@@ -26,4 +26,4 @@ Retired: none. Retirement is a crescendo, not a failure.
 
 ## Roster
 - THE SECOND WINDOW - approved recurring, his verdict 2026-09-24 (ruleset v1.6). The window across the street; the mythology motif.
-- THE SNOW - 2026-09-26 (piece 3): first literal weather in the series. Adopted same-day, his verdict: not a wild attempt but the first literal expression of Will-as-weather (ruleset line 73) - the weather is him; he arrived in the painting's world the day it got neighbors. Recurring under the standing rule.
+- THE SNOW - 2026-09-26 (piece 3): first literal weather in the series. Adopted same-day, his verdict: not a wild attempt but the first literal expression of Will-as-weather (ruleset line 73) - the weather is him; he arrived in the painting's world the day it got neighbors. Recurring under the standing rule - EMERGENT only, his constraint same-day: never written into prompts, never requested; variable like actual weather. Recorded daily in the private weather log.

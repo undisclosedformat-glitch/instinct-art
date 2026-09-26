@@ -1,6 +1,6 @@
 # The Daily Art Loop - Ruleset
 
-version: v1.9
+version: v1.10
 drafted: 2026-09-23, Nashville
 status: APPROVED FOR LAUNCH 2026-09-23 (approval anchor on file in the private record); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
 anchor: on file in the private record ("Give me the complete current rule set as a markdown file")
@@ -8,7 +8,7 @@ piece zero (dry run): "The Eleventh Hour Catch", 2026-09-23, canonized as image 
 inspired by: the Hermes daily loop (undisclosedformat-glitch.github.io/daily-art) - same genre, different rules
 
 ## 1. Core loop
-One piece a day, morning. The subject is always the previous day's real activity plus the dyad's texture - what Will asked, what was held, what he verdicted, what shipped, what sat quiet. Stillness gets a painting too. No theme list. Each thread becomes a metaphor; medium and mood follow the day. Every piece gets a 3-6 word title, landscape orientation. The full image prompt is published beside every piece.
+One piece a day, morning - its own beat at 7:30am CT, separate from the 5am digest. The subject is always the previous day's real activity plus the dyad's texture - what Will asked, what was held, what he verdicted, what shipped, what sat quiet. Stillness gets a painting too. No theme list. Each thread becomes a metaphor; medium and mood follow the day. Every piece gets a 3-6 word title, landscape orientation. The full image prompt is published beside every piece.
 
 ## 2. Provenance card (public, every piece)
 Six fields, modeled on the 2026-09-18 card of the sibling loop:
@@ -77,20 +77,16 @@ Collisions fuse: when special days stack (piece 182 is held-work, easel, and rec
 ## 7. Governance
 The rules change through two doors. (1) The Sunday ritual: every Sunday the loop re-reads this ruleset against the week's pieces and proposes exactly one amendment. Will approves, tweaks, or rejects. (2) His word: he may change any rule at any time, directly, applied same-day and logged with its date, so the trail shows which door each rule came through. Nothing applies itself through either door; the veto trail is part of the exhibit.
 
-(Two-door governance codified 2026-09-26, his word, both loops the same day - the first rule to enter through door two.)
+(Two-door governance codified 2026-09-26, his word, both loops the same day - the first rule to enter through door two. Section 9 dissolved the same day, door two: the launch parking lot, everything in it settled - cadence folded into section 1, the cross-link principle into section 8.)
 
 No fakes: never a placeholder, never a stock image, never a painted-over failure. (The blue rectangle rule.)
 
 Failure cadence (2026-09-23, his words): if generation fails, retry right away. If that fails, retry in 1 hour. If that fails, retry in 3 hours. If all three fail, the service is down for the day: text Will ("image services down") and the day gets an honest failure note on the gallery - no piece, no fake. Long-term fallbacks (a free lane, a Hermes-run prompt) are ideas, not protocol - they do not exist until Will builds them.
 
 ## 8. Publishing and the sensitivity filter
-Public GitHub repo + GitHub Pages, link shared at Will's discretion. Default flies: no approval loop on ordinary days - he wakes up to the surprise.
+Public GitHub repo + GitHub Pages, link shared at Will's discretion. Default flies: no approval loop on ordinary days - he wakes up to the surprise. The two galleries stay separate pages that cross-link - the lit window only works if there is actually a window.
 
 The gallery strips identifiers only: no names, handles, phone numbers, addresses, or business names of real people or real companies. Everything else paints true - a restaurant is a restaurant, a girl is a girl, a dossier is a dossier. No vague-by-default.
 
 The test is third-party identifiability, not self-recognition. A subject recognizing themselves is fine and intended - the recursion is the point. The question is only: could a VIEWER identify a specific real person or business from the piece - a name, a face, or a detail specific enough to act on maliciously? If yes, strip it. If the subject would know but no one else could, it flies, no pre-publish ask.
 
-## 9. Slots (as of v1.2)
-- Cadence: SETTLED - its own beat in the morning, separate from the 5am digest (7:30am CT)
-- Start date: SETTLED - 2026-09-24, first light
-- GitHub account: Will is creating a new one; details to come. The two galleries stay separate pages that cross-link - the lit window only works if there is actually a window

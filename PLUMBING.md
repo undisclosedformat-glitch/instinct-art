@@ -32,13 +32,13 @@ the shared world in full each day. Card + private words written same beat.
 - JOURNAL.md - public log, one entry per piece (title, prompt, card, drift)
 - ARCS.md - official arcs + wild roster
 - private-words/YYYY-MM-DD.md - the spine, append-only, never published
-- gallery/ - site source (pending GitHub account)
+- gallery/ - site source (live on GitHub since 2026-09-24)
 
 ## Repos and publishing
 Working repo: /skills/personal (volatile), pushed to the s3 remote at
-creation - commit is not save, PUSH. Gallery repo: GitHub + Pages, pending
-Will's new account; pieces queue for publish until it exists. The two
-galleries cross-link once both exist - the window needs a window.
+creation - commit is not save, PUSH. Gallery repo: GitHub + Pages, LIVE since
+2026-09-24, pushed daily. The two galleries cross-link - the window has a
+window.
 
 ## Delivery
 Same beat, every piece: image + title texted, prompt as own bubble,
@@ -46,17 +46,18 @@ provenance card texted, private words texted separately (spine updated first).
 Gallery push when the repo exists. Render drift is kept visible and noted in
 the card, never silently corrected.
 
-Words queue: each piece's private-words note queues for gallery publication at
-piece-publish +48h. A one-word hold or kill from Will inside the window
-removes it from the queue (the spine keeps it). A one-word fast-forward
-publishes immediately. Queue state lives in art-loop/gallery/words-queue.md
-once the repo exists.
+Words queue: SUPERSEDED 2026-09-24 by autopilot same-push publication
+(ruleset v1.6+; current v1.7). Each piece's words publish to the gallery in
+the same push as the piece, no delay; Will can kill or amend any note after
+the fact with one word. Queue state lives in words-queue.md as the running
+record.
 
 ## GitHub publishing (2026-09-23)
 Gallery repo: git@github.com:undisclosedformat-glitch/instinct-art.git, Pages
 at undisclosedformat-glitch.github.io/instinct-art/. Published by machine
 push using a write credential scoped to this repository only, held outside
 the repo and out of version control. If it is lost, recovery is a rotation.
-The matching public key is committed for reference. main blocks force-pushes and deletion: the
+No key material or public key is committed (identifier scrub 2026-09-24).
+main blocks force-pushes and deletion: the
 gallery is append-only, like the journal. Never force-push. The two galleries
 cross-link: sibling at undisclosedformat-glitch.github.io/daily-art/.

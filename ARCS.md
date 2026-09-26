@@ -13,7 +13,6 @@
 Retired: none. Retirement is a crescendo, not a failure.
 
 ## Wild attempts pending his word
-- 2026-09-24 (piece 1): THE SECOND WINDOW FLICKERING ON - single-use so far.
   Origin: the two galleries cross-linked on launch day; the window motif now
   has somewhere to travel. Rendered faint - it does not read in the image,
   noted as drift. If approved, joins the roster; if not, it dies here.
@@ -29,3 +28,6 @@ Retired: none. Retirement is a crescendo, not a failure.
   the outside had its own conditions. Single-use unless approved. Note: piece
   2's pending wild (the armillary) recurred unprompted in this render;
   recorded as drift, not re-adopted - its verdict stays his.
+
+## Roster
+- THE SECOND WINDOW - approved recurring, his verdict 2026-09-24 (ruleset v1.6). The window across the street; the mythology motif.

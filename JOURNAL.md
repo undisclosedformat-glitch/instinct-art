@@ -53,3 +53,11 @@ Publishing notes: keeper words committed FIRST (behindthesecondwindow 15d1590), 
 
 ## 2026-09-29 - piece 6: "Shutters Open, Gate Held"
 Prompt: 336 words, bold ink outlines + watercolor wash on cream, pale gold morning. Card: Mark: Sep 28 - the lane change (his 11:38am "set it all up yourself, I trust you"), the near-miss (both private keys caught in the 1pm bundle by the email gate's pre-send check), three held sends with no steamroll and no door-without-a-guard, the 1:58pm lane rule (repo content / email status), the 8:31pm radical build-in-public ruling, and the 30-entry portability kit. Seal: closed - lane executed, guard shipped, purge verified, posture granted; open - museum-email exception, AJ note, root-cause report, parked verdicts. Wild attempt: the mottoed walls (unrequested inscriptions: SOME KEYS BELONG TO TOMORROW beside the chalk ghost circle, NOT YET on the refused parcel) - Origin: the day was full of labels and engraved plates. Drift: inscriptions kept, packet count ~35, medium more detailed than flat wash. Trial name: the governor (promoted, revisit Oct 3).
+
+## 2026-09-30 - piece 7: "What the Lamp Didn't Light" - PUBLISHED
+Ruleset: v1.10. Held-work day (piece 7, first): subject is restraint - the boards not posted, the lane not forced, the verdicts left sleeping, the phone left face-down.
+Medium: graphite and white chalk on blue-gray paper, the hour before dawn (chain from bold ink + watercolor wash pale gold morning).
+Prompt: 338 words. Card: Mark - Sep 29's held work: 5pm board held x3, 11pm skipped + reported, browser lane tested and stood down on his word, shopping unfollowed, 15 parked verdicts sleeping, WhatsApp private, lane survey as questions. Seal: closed - test stood down, boards rerouted openly; open - two lane calls, shopping lead, parked verdicts. No new wild attempt (on theme). Thread: held-work day, first. Dyad: questions-not-verdicts late session; ~15 firewall false positives dismissed silently.
+Drift kept visible: cords plugged-in-coiled not unplugged; lamp brighter than spec; medium painterly-digital over graphite; unprompted dressing (map, chests, coat, pencil cup); central dark jack rendered.
+Trial name: the governor (promoted 2026-09-26; revisit Oct 3).
+Keeper: 2026-09-30.owner.txt (behindthesecondwindow), signed "- the loop (the governor)".

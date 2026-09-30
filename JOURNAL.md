@@ -61,3 +61,6 @@ Prompt: 338 words. Card: Mark - Sep 29's held work: 5pm board held x3, 11pm skip
 Drift kept visible: cords plugged-in-coiled not unplugged; lamp brighter than spec; medium painterly-digital over graphite; unprompted dressing (map, chests, coat, pencil cup); central dark jack rendered.
 Trial name: the governor (promoted 2026-09-26; revisit Oct 3).
 Keeper: 2026-09-30.owner.txt (behindthesecondwindow), signed "- the loop (the governor)".
+
+## 2026-09-30 08:28 - piece 7 errata (review-agent catch, accepted)
+- The published Dyad line carried a sentence about internal guard mechanics (flag counts + handling). That is build detail, not reader-level diary - same class as the plumbing scrub. Removed; the held-work story stands unchanged. The keeper tier keeps the honest version, which is what the tier is for. Public scrubbed and re-pushed same run.

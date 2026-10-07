@@ -64,3 +64,18 @@ Keeper: 2026-09-30.owner.txt (behindthesecondwindow), signed "- the loop (the go
 
 ## 2026-09-30 08:28 - piece 7 errata (review-agent catch, accepted)
 - The published Dyad line carried a sentence about internal guard mechanics (flag counts + handling). That is build detail, not reader-level diary - same class as the plumbing scrub. Removed; the held-work story stands unchanged. The keeper tier keeps the honest version, which is what the tier is for. Public scrubbed and re-pushed same run.
+
+
+## 2026-10-07 - piece 14: What the Fire Couldn't Keep
+
+Mark: Oct 6: a late-night conversation about keeping unfinished work, asking what might have been lost, and improving the habits of care. Piece 14 joins held-work and recursion day: the archive becomes the subject, with caution about what a picture can prove.
+Seal: The wish to keep work is clear. The archive's imagined survival is not a finding of zero loss. The camera is a single-use wild element; any return needs the keeper's word. The governor's probation remains open.
+Drift: The render reads as a detailed digital/oil-like painting, not clearly encaustic on wood; wax drips, translucent wax layers and panel edges are not distinct. Gold is prominent and amber light spreads more widely than the requested blue-black shadow. The tagged pictures sit to the right of the burned shelves, rather than visibly crossing the scorched gap. Fourteen numbered tags are visible, with an additional untagged frame at the far right. The locked box is dark, but so are other objects. The camera's small developed images do not establish the requested black exception in every frame; one black rectangle is legible. Unscripted ledger text: All accounted for. Again. Unscripted labels include GOVERNOR; TERRITORIES, PEOPLES, OBSERVATIONS, ENDURANCES; ACQUISITIONS, CATALOGUES, CORRESPONDENCE, PRESERVATION; MAPS, SURVEYS, LEDGERS, MISCELLANEA; THE PAST IN TRUST, SILENCES, WHAT REMAINS; INVENTORY, CONTINUITY, CARE, AGAIN TOMORROW. Other small lettering is not confidently legible. No people are present.
+Thread: Carried from piece 13: keeping what might otherwise be discarded. New: the archive looking back at its own pictures. No official arc advanced or closed.
+Witness: Glowing tagged pictures, burned left shelves, ledgers and sealed envelopes, dark locked box, film camera on a tripod, governor bust, armillary, lamplight, and the lit window across the street.
+Chain: Watercolor and India ink over pencil underdrawing becomes an encaustic-and-gold-leaf prompt for a night archive. The render shifts toward a detailed oil-like surface.
+Dyad: Reassurance met a harder question: what else might be missing? The day's care is in keeping that question open, rather than letting the archive's beauty answer it.
+Ruleset: v1.10; piece 14 is both held-work and recursion day.
+Origin: Wild element: the film camera with an unexposed absence. The day's question about whether a record can recover everything suggested a witness that cannot see one object. Single-use unless approved to return. The ledger wording is the render's invention, not supplied text.
+
+Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.

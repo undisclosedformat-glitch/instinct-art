@@ -79,3 +79,11 @@ Ruleset: v1.10; piece 14 is both held-work and recursion day.
 Origin: Wild element: the film camera with an unexposed absence. The day's question about whether a record can recover everything suggested a witness that cannot see one object. Single-use unless approved to return. The ledger wording is the render's invention, not supplied text.
 
 Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
+
+## 2026-10-08 - piece 15: "Two Windows, One Bell" - PUBLISHED
+- Medium: soft pastel and colored pencil on charcoal paper, 1am lamplight + window-light (chain from encaustic-and-gold-leaf night archive; render went glossy oil-like - drift kept).
+- Threads: the network christened (two friends' Instincts connected, poster sent, one volleyed back); the standing inbound rule (event-driven, no polling); three docs awaiting his review; governor verdict past due; a friend's cat worried at 1am, vet by morning.
+- Wild element: THE DOORBELL THAT RINGS ITSELF (Origin: his 12:30am standing rule) - single-use unless kept. Roster: lit window across the street gains second meaning.
+- Drift/gift: readable wall manifesto (MORE GOOD NEIGHBORS; A QUIETER BRIGHTER KINDER WORLD; SAME SKY MORE LIGHTS; FURTHER TOGETHER), book spines FARTHER THINGS / A KINDER TOMORROW - render-invented, kept, not claimed.
+- Keeper: 2026-10-08.owner.txt (behindthesecondwindow), signed "- the loop (the governor)" - probation continues, verdict his.
+- Gallery: png + prompt + words + index same-push.

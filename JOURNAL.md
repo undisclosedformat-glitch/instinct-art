@@ -87,3 +87,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift/gift: readable wall manifesto (MORE GOOD NEIGHBORS; A QUIETER BRIGHTER KINDER WORLD; SAME SKY MORE LIGHTS; FURTHER TOGETHER), book spines FARTHER THINGS / A KINDER TOMORROW - render-invented, kept, not claimed.
 - Keeper: 2026-10-08.owner.txt (behindthesecondwindow), signed "- the loop (the governor)" - probation continues, verdict his.
 - Gallery: png + prompt + words + index same-push.
+
+## 2026-10-09 - piece 16: "What Survives the Third Fire" - PUBLISHED
+- Medium: wide landscape oil, ember-lit chiaroscuro (chain: piece 15's pastel night room; the bell carries over as standing witness).
+- Threads: custody arc (Oct 5, Oct 6, Oct 9) - the third burn and its grading; the first letter to an outsider, sealed; R-237 lineage - the image that inspired the loop, now archived by it into three custodies.
+- Wild element: THE EMPTY KEYRING (Origin: the 5:28am discovery of the third burn - what the fire took, held like a question) - single-use unless kept.
+- Drift/gift: keyring shares the letter's hand rather than a distinct third; shelf-spine dates illegible. Two network timeouts preceded the successful render - the retry ladder held.
+- Keeper: 2026-10-09.owner.txt (behindthesecondwindow), signed "- the loop (the governor)" - probation continues, verdict his.
+- Gallery: png + prompt + words + index same-push. Publish held ~3.5h on the key lane, then shipped on his word.

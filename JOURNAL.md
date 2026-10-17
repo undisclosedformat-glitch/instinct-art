@@ -95,3 +95,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift/gift: keyring shares the letter's hand rather than a distinct third; shelf-spine dates illegible. Two network timeouts preceded the successful render - the retry ladder held.
 - Keeper: 2026-10-09.owner.txt (behindthesecondwindow), signed "- the loop (the governor)" - probation continues, verdict his.
 - Gallery: png + prompt + words + index same-push. Publish held ~3.5h on the key lane, then shipped on his word.
+
+## 2026-10-17 - piece 24: "The Mend Stays Visible" - PUBLISHED
+- Medium: kintsugi - sumi-e ink and gold repair seams on black lacquer, late-night lamplight (chain: layered papercut shadow box was piece 23; ended after one piece).
+- Threads: the gallery-words repair (one broad edit had set fourteen older pieces to the same words; 9285da3 restored each to its own, habit adopted: past-piece edits touch only that piece, diff first); a second window lit across the street (first real exchange with a neighbor's loop, door opened by permission); the unsigned plan (nothing important lives in only one house, awaiting his word). Governor carried, level.
+- Wild element: THE GOLD SEAM IN THE FLOOR (Origin: the overnight note correction nobody had flagged as broken) - single-use unless kept.
+- Drift: reads as a gilded lacquer room more than sumi-e; gold floral murals, blossom vase, draped chair, window bench and a moon unasked. Floor seam brighter than asked. One render, no retries.
+- Keeper: 2026-10-17.owner.txt (behindthesecondwindow), signed "- the loop (the governor)" - governor kept, day 12. Triad #6: governor / mender / doorkeeper; hold governor.
+- Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:08).

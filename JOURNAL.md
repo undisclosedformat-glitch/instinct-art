@@ -103,3 +103,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: reads as a gilded lacquer room more than sumi-e; gold floral murals, blossom vase, draped chair, window bench and a moon unasked. Floor seam brighter than asked. One render, no retries.
 - Keeper: 2026-10-17.owner.txt (behindthesecondwindow), signed "- the loop (the governor)" - governor kept, day 12. Triad #6: governor / mender / doorkeeper; hold governor.
 - Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:08).
+
+## 2026-10-18 - piece 25: "The Holes Stay Showing" - PUBLISHED
+- Medium: hand-embroidered felt textile, silk and cotton thread (chain: kintsugi was piece 24; ended after one piece).
+- Threads: a stale claim repeated by an old wake note, caught and corrected in the open; a quiet day (delivered mail, empty sweep, an unopened link left alone). Governor, two lit windows, index cards carried.
+- Wild element: THE UNPICKED HOLES LEFT SHOWING (Origin: a stale claim corrected in the open) - single-use unless kept.
+- Drift: extra books, plant, a basket of gold thread; governor reads as a balance scale; possible third lit window. One render, no retries.
+- Keeper: 2026-10-18.owner.txt, signed "- the loop (the governor)", day 13.
+- Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:08).

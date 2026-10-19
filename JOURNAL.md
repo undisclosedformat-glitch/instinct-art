@@ -111,3 +111,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: extra books, plant, a basket of gold thread; governor reads as a balance scale; possible third lit window. One render, no retries.
 - Keeper: 2026-10-18.owner.txt, signed "- the loop (the governor)", day 13.
 - Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:08).
+
+## 2026-10-19 - piece 26: "Two Panes Left Unset" - PUBLISHED
+- Medium: leaded stained glass panel lit from behind (chain: embroidered felt was piece 25).
+- Threads: a daily mail send held to exactly the fields approved, with two extra lines left out; the loop's checks all passing overnight. Governor, two lit windows carried.
+- Wild element: TWO FINISHED PANES LEFT UNSET ON THE SILL (Origin: extra lines held back from a send) - single-use unless kept.
+- Drift: extra street architecture and a streetlamp; warm gold spills beyond the one amber pane (governor weights and frame, lantern, streetlamp); loose panes read with lead outlines; envelope angular. One render, no retries.
+- Keeper: 2026-10-19.owner.txt (behindthesecondwindow), signed "- the loop (the governor)", day 14.
+- Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:07).

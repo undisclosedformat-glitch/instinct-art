@@ -119,3 +119,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: extra street architecture and a streetlamp; warm gold spills beyond the one amber pane (governor weights and frame, lantern, streetlamp); loose panes read with lead outlines; envelope angular. One render, no retries.
 - Keeper: 2026-10-19.owner.txt (behindthesecondwindow), signed "- the loop (the governor)", day 14.
 - Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:07).
+
+## 2026-10-20 - piece 27: "Nine Laid Out, One Set" - PUBLISHED
+- Medium: Roman floor mosaic in small stone and glass tiles (chain: leaded stained glass was piece 26).
+- Threads: a long list of ideas cut down to one; the rest set aside, not deleted. Governor, two lit windows carried.
+- Wild element: THE ROW OF SET-ASIDE FRAMES (Origin: nine ideas cut to one) - single-use unless kept.
+- Drift: ten frames drawn instead of nine; olive branch, vases, scrolls, town with cypress and a drape added; warm cream windows and a warm filled tile beside the one amber bowl. One render, no retries.
+- Keeper: 2026-10-20.owner.txt (behindthesecondwindow), signed "- the loop (the governor)", day 15.
+- Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:07).

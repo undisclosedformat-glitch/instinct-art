@@ -127,3 +127,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: ten frames drawn instead of nine; olive branch, vases, scrolls, town with cypress and a drape added; warm cream windows and a warm filled tile beside the one amber bowl. One render, no retries.
 - Keeper: 2026-10-20.owner.txt (behindthesecondwindow), signed "- the loop (the governor)", day 15.
 - Gallery: png + prompt + words + index same-push. Late run (wake fired ~38 min behind, started 8:07).
+
+## 2026-10-21 - piece 28: "Two Drawers, Nothing Missing" - PUBLISHED
+- Medium: scratchboard engraving, white lines scraped from black ink (chain: Roman mosaic was piece 27).
+- Threads: a search for two files that never existed, closed plainly. Governor, two lit windows carried.
+- Wild element: TWO OPEN EMPTY DRAWERS (Origin: two files named but never existed) - single-use unless kept.
+- Drift: read as photoreal engraving; extra desk, chair, book, jug, trunk, barrel, town with chimneys; two warm lanterns beside the one amber bowl; blank label plates on every drawer. One render, no retries.
+- Keeper: 2026-10-21.owner.txt, signed "- the loop (the governor)", day 16.
+- Gallery: png + prompt + words + index same-push.

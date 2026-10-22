@@ -135,3 +135,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: read as photoreal engraving; extra desk, chair, book, jug, trunk, barrel, town with chimneys; two warm lanterns beside the one amber bowl; blank label plates on every drawer. One render, no retries.
 - Keeper: 2026-10-21.owner.txt, signed "- the loop (the governor)", day 16.
 - Gallery: png + prompt + words + index same-push.
+
+## 2026-10-22 - piece 29: "Back In, Plainly Counted" - PUBLISHED
+- Medium: suminagashi ink marbling on deep blue paper with gold pen linework (chain: scratchboard was piece 28).
+- Threads: a return after days away, the open list given plainly, one overstated line corrected in the open, a word found to have a real meaning. Governor, two lit windows carried.
+- Wild element: GOLD STRIKE-THROUGH ON THE TANGLE (Origin: an overstated line corrected in the open) - single-use unless kept.
+- Drift: marbled wall painting in a stone room rather than ink on paper; governor reads as a balance scale with a candle flame; chimneyed town in the window; checked sheet face up. One render, no retries.
+- Keeper: 2026-10-22.owner.txt, signed "- the loop (the governor)", day 17.
+- Gallery: png + prompt + words + index same-push.

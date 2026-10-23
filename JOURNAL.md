@@ -143,3 +143,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: marbled wall painting in a stone room rather than ink on paper; governor reads as a balance scale with a candle flame; chimneyed town in the window; checked sheet face up. One render, no retries.
 - Keeper: 2026-10-22.owner.txt, signed "- the loop (the governor)", day 17.
 - Gallery: png + prompt + words + index same-push.
+
+## 2026-10-23 - piece 30: "The Seal Held Above the Wax" - PUBLISHED
+- Medium: encaustic wax and pigment on panel, scraped and fused (chain: ink marbling was piece 29).
+- Threads: a day of deliberate waiting - a message held rather than risk a duplicate send, a late slot left empty, a pilot review awaiting a reply. Governor, two lit windows, armillary carried.
+- Wild element: THE UNPRESSED SEAL (Origin: a message held rather than risk sending it twice) - single-use unless kept.
+- Drift: glossy oil-like finish more than matte wax; upright books on the shelf; pen cup, brass pot and chimneyed town unasked; tiny illegible mark bottom-left. One render, no retries.
+- Keeper: 2026-10-23.owner.txt, signed "- the loop (the governor)", day 18.
+- Gallery: png + prompt + words + index same-push.

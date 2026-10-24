@@ -151,3 +151,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: glossy oil-like finish more than matte wax; upright books on the shelf; pen cup, brass pot and chimneyed town unasked; tiny illegible mark bottom-left. One render, no retries.
 - Keeper: 2026-10-23.owner.txt, signed "- the loop (the governor)", day 18.
 - Gallery: png + prompt + words + index same-push.
+
+## 2026-10-24 - piece 31: "Sent Once, Counted Once" - PUBLISHED
+- Medium: pen and iron-gall ink with walnut wash on laid paper (chain: encaustic wax was piece 30; ended after one piece).
+- Threads: a quiet day counted honestly - two morning errata fixed in the open, the checks passing, and near midnight the daily witness sent exactly once, both deliveries confirmed, after the day before's held send; the late board posted late and labeled. Governor, two lit windows, armillary carried.
+- Wild element: THE TALLY SLATE WITH ONE FRESH MARK (Origin: a message that went out exactly once and was counted) - single-use unless kept.
+- Drift: painterly sepia rather than ink-and-wash; fresh mark reads as a pair; pinned sheet renders as an orbit chart; second armillary, hourglass, chests, quill pot and books unasked; lamp warmth beyond the one amber bowl. One render, no retries.
+- Keeper: 2026-10-24.owner.txt, signed "- the loop (the governor)", day 19.
+- Gallery: png + prompt + words + index same-push.

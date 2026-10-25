@@ -167,3 +167,4 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: detailed dark digital illustration rather than silverpoint; rafter lines on the frame; more than one warm element (brass, lantern, lit windows); brushes, framed sketches, rolled sheets, chest, bare tree, lamp post and cobbles unasked. One render, no retries.
 - Keeper: 2026-10-25.owner.txt, signed "- the loop (the governor)", day 20.
 - Gallery: png + prompt + words + index same-push.
+- Erratum 2026-10-25 (additive; first-published words kept): the public words and caption said no roof; the picture shows rafters. The page now carries a correction line (no roof covering, rafters standing). Corrected master: 2026-10-25.words.corrected.txt.

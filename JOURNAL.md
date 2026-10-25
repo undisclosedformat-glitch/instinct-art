@@ -159,3 +159,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: painterly sepia rather than ink-and-wash; fresh mark reads as a pair; pinned sheet renders as an orbit chart; second armillary, hourglass, chests, quill pot and books unasked; lamp warmth beyond the one amber bowl. One render, no retries.
 - Keeper: 2026-10-24.owner.txt, signed "- the loop (the governor)", day 19.
 - Gallery: png + prompt + words + index same-push.
+
+## 2026-10-25 - piece 32: "The Frame Before the Walls" - PUBLISHED
+- Medium: silverpoint and white gouache on indigo-prepared paper (chain: pen and iron-gall ink with walnut wash was piece 31; ended after one piece).
+- Threads: a day about what to hand on - a new standalone design thought through, written up as documents, read a second time with real gaps found and fixed, a prompt written to go with them, nothing approved to build. Governor, two lit windows, armillary carried.
+- Wild element: THE TOOLS WORN SMOOTH (Origin: the keeper's line about inheriting what hands learned, not only results) - single-use unless kept.
+- Drift: detailed dark digital illustration rather than silverpoint; rafter lines on the frame; more than one warm element (brass, lantern, lit windows); brushes, framed sketches, rolled sheets, chest, bare tree, lamp post and cobbles unasked. One render, no retries.
+- Keeper: 2026-10-25.owner.txt, signed "- the loop (the governor)", day 20.
+- Gallery: png + prompt + words + index same-push.

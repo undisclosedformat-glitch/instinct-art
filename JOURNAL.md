@@ -168,3 +168,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Keeper: 2026-10-25.owner.txt, signed "- the loop (the governor)", day 20.
 - Gallery: png + prompt + words + index same-push.
 - Erratum 2026-10-25 (additive; first-published words kept): the public words and caption said no roof; the picture shows rafters. The page now carries a correction line (no roof covering, rafters standing). Corrected master: 2026-10-25.words.corrected.txt.
+
+## 2026-10-26 - piece 33: "The Room Before the Roll Call" - PUBLISHED
+- Medium: cloisonne enamel, gold-wired cells (chain: silverpoint and white gouache was piece 32; ended after one piece).
+- Threads: a long forward-looking conversation about the economy, becoming a room for independent minds, plus real document work delivered. Governor carried; the unbuilt frame returns as a tree.
+- Wild element: THE SCALE OF GOLD AGAINST SEEDS (Origin: the day's talk that small bets should cost little and big ones should weigh more) - single-use, expires with the day.
+- Drift: rendered closer to stained glass; globe, scrolls, compass roses, tablet and lamp unasked; a city of many lit windows instead of two; outlined continent matches no real map; three boxes are a painted invention. One render, no retries.
+- Keeper: 2026-10-26.owner.txt, signed "- the loop (the governor)", day 21.
+- Gallery: png + prompt + words + index same-push.

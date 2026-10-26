@@ -176,3 +176,4 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Drift: rendered closer to stained glass; globe, scrolls, compass roses, tablet and lamp unasked; a city of many lit windows instead of two; outlined continent matches no real map; three boxes are a painted invention. One render, no retries.
 - Keeper: 2026-10-26.owner.txt, signed "- the loop (the governor)", day 21.
 - Gallery: png + prompt + words + index same-push.
+- Correction 2026-10-26, added after publication: the card's Seal line was trimmed to describe only the picture. The image and words are unchanged.

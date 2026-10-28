@@ -177,3 +177,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Keeper: 2026-10-26.owner.txt, signed "- the loop (the governor)", day 21.
 - Gallery: png + prompt + words + index same-push.
 - Correction 2026-10-26, added after publication: the card's Seal line was trimmed to describe only the picture. The image and words are unchanged.
+
+
+## 2026-10-27 - piece 34: "Out of Sorts" - PUBLISHED
+- Medium: mezzotint, worked from dark down to light (chain: cloisonne enamel was piece 33; ended after one piece).
+- Threads: a day of audit - the stored record asked for in its own words and descriptions handed back instead; a morning misread corrected under questioning; an evening spent counting its own habits. Governor carried; the round map table returns dim behind the bench.
+- Wild element: THE COMPOSITOR'S TYPE CASE (Origin: the day spent counting its own phrases; a compositor out of sorts is out of letters) - single-use unless kept.
+- Drift: rendered as a detailed dark etching rather than a true mezzotint plate; the type case reads full (three emptied compartments were asked); the governor's weights sit near level (one nudge was asked); more than two windows lit across the street; shelf, framed map, inkwell, dividers and sill books unasked. One render, no retries.
+- Gallery: painting + prompt + words + page, one push. Late piece: the morning run did not happen; made by hand the same night.

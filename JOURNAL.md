@@ -179,6 +179,13 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Correction 2026-10-26, added after publication: the card's Seal line was trimmed to describe only the picture. The image and words are unchanged.
 
 
+## 2026-10-28 - piece 35: "The Unsent, the Unopened" - PUBLISHED
+- Medium: mezzotint, second attempt - light made by removal (chain: first mezzotint was piece 34).
+- Threads: a held-work day, the fifth, from a day of held things - the missed-run cause left unassigned on purpose; a rule clarification drafted, shown, and withdrawn unenshrined; the investigation, the exports, and the collab each checked and each left paused; a blocked copy not forced. The loop's own pipeline explained without invented machinery; a temporary command expired by his word. Governor carried, day 23.
+- Wild element: none new - restraint in the roster too. The lit window across the street reads dark: a posture, not a report.
+- Drift: warm sepia etching tones rather than true mezzotint black-and-silver; the plate's burnished corner faint to absent (one bright corner asked); the tied stack reads as loose pages; tool pot, cloth, lidded pot, wall frames, book cabinet, rolled papers, bare trees unasked. One render, no retries.
+- Gallery: painting + prompt + words + page, one push. On time: the morning run happened on its own schedule.
+
 ## 2026-10-27 - piece 34: "Out of Sorts" - PUBLISHED
 - Medium: mezzotint, worked from dark down to light (chain: cloisonne enamel was piece 33; ended after one piece).
 - Threads: a day of audit - the stored record asked for in its own words and descriptions handed back instead; a morning misread corrected under questioning; an evening spent counting its own habits. Governor carried; the round map table returns dim behind the bench.

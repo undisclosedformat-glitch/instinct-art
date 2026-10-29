@@ -179,6 +179,13 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Correction 2026-10-26, added after publication: the card's Seal line was trimmed to describe only the picture. The image and words are unchanged.
 
 
+## 2026-10-29 - piece 36: "The First Stroke Stands" - PUBLISHED
+- Medium: sumi-e ink wash, first attempt - the medium of no revision (chain: mezzotint was pieces 34 and 35, ended after two).
+- Threads: the first writing kept - the loop's reach to narrow its own keeper words refused, the original standing, no review gate added; the furniture of the house given two-part names; a read-only untangling with its hypotheses labeled; seven questions answered in numbered order near midnight; the blank page of a record not written. Governor carried, day 24.
+- Wild element: THE RED SEAL STAMP (Origin: his verdict keeping the original words - the mark that says a thing stands) - single-use unless kept.
+- Drift: rendered as warm sepia ink-wash illustration rather than spare sumi-e on white; extra props (brush pot, stacked books, potted plants, framed wall map) unasked. One render, no retries.
+- Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.
+
 ## 2026-10-28 - piece 35: "The Unsent, the Unopened" - PUBLISHED
 - Medium: mezzotint, second attempt - light made by removal (chain: first mezzotint was piece 34).
 - Threads: a held-work day, the fifth, from a day of held things - the missed-run cause left unassigned on purpose; a rule clarification drafted, shown, and withdrawn unenshrined; the investigation, the exports, and the collab each checked and each left paused; a blocked copy not forced. The loop's own pipeline explained without invented machinery; a temporary command expired by his word. Governor carried, day 23.

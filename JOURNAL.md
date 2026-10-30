@@ -199,3 +199,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE COMPOSITOR'S TYPE CASE (Origin: the day spent counting its own phrases; a compositor out of sorts is out of letters) - single-use unless kept.
 - Drift: rendered as a detailed dark etching rather than a true mezzotint plate; the type case reads full (three emptied compartments were asked); the governor's weights sit near level (one nudge was asked); more than two windows lit across the street; shelf, framed map, inkwell, dividers and sill books unasked. One render, no retries.
 - Gallery: painting + prompt + words + page, one push. Late piece: the morning run did not happen; made by hand the same night.
+
+## 2026-10-30 - piece 37: "The Horn and the Open Door" - PUBLISHED
+- Medium: charcoal and conte crayon with white chalk on toned paper, first attempt (chain: sumi-e ink wash was piece 36, ended after one).
+- Threads: the voice hunt - his question whether written words could be read back in a voice of his choosing, a real front door found with its catch named, a route map delivered with disproofs marked; the house opened new rooms the same morning (group conversations; more chairs at the table); one letter held again near midnight, its required record still unwritable, set aside unsent rather than unverified; the morning record missed again, second day running; a saved line about him corrected to what he meant. Governor carried, day 25.
+- Wild element: THE BRASS PHONOGRAPH HORN (Origin: his morning question - a machine whose whole purpose is giving the written word a voice) - single-use unless kept.
+- Drift: rendered as a warm sepia tonal illustration rather than charcoal and conte with white chalk on gray; the governor grew a large flywheel and its flyballs hang rather than hold level; the envelope shows its flap (face down was asked); extra props unasked (wall map, bookshelves, framed diagrams, hanging ivy, rugs, tool pots, books on the table); letters carry illegible writing texture, no readable words. One render, no retries.
+- Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.

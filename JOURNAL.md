@@ -206,3 +206,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE BRASS PHONOGRAPH HORN (Origin: his morning question - a machine whose whole purpose is giving the written word a voice) - single-use unless kept.
 - Drift: rendered as a warm sepia tonal illustration rather than charcoal and conte with white chalk on gray; the governor grew a large flywheel and its flyballs hang rather than hold level; the envelope shows its flap (face down was asked); extra props unasked (wall map, bookshelves, framed diagrams, hanging ivy, rugs, tool pots, books on the table); letters carry illegible writing texture, no readable words. One render, no retries.
 - Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.
+
+## 2026-10-31 - piece 38: "Three Blanks, One Envelope" - PUBLISHED
+- Medium: drypoint with heavy plate tone, first attempt (chain: charcoal and conte was piece 37, ended after one).
+- Threads: a quiet day kept honest - the morning record missed a third day running (Oct 28-30), the stuck drawer still stuck; one small memory correction in the afternoon; the witness email held again near midnight, unsent, its required record still unwritable and his answer on the skip still his; piece 37 published and delivered on the ordinary schedule. The rest of the day stayed private and stays out of the frame. Governor carried, day 26.
+- Wild element: THE COVERED HOURGLASS (Origin: the third missed record - time passing with none of it landing on a page) - single-use unless kept.
+- Drift: rendered as a warm sepia tonal illustration rather than true drypoint; the record book shows a two-page blank spread (three blank pages were asked); the hourglass sand shows through the dome (hidden was asked); a pen lies across the book where a pencil was asked; extra props unasked (a second small armillary on the table, pen pot, jars, small chests, framed pictures). One render, no retries.
+- Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.

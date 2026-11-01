@@ -213,3 +213,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE COVERED HOURGLASS (Origin: the third missed record - time passing with none of it landing on a page) - single-use unless kept.
 - Drift: rendered as a warm sepia tonal illustration rather than true drypoint; the record book shows a two-page blank spread (three blank pages were asked); the hourglass sand shows through the dome (hidden was asked); a pen lies across the book where a pencil was asked; extra props unasked (a second small armillary on the table, pen pot, jars, small chests, framed pictures). One render, no retries.
 - Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.
+
+## 2026-11-01 - piece 39: "The Half-Pulled Print" - PUBLISHED
+- Medium: brush and brown ink wash over red chalk underdrawing, left visible, first attempt (chain: drypoint was piece 38, ended after one). Third easel day - the piece shows its own making.
+- Threads: the held letter flew - the witness email sent at midday under his one-time exception, delivered, the rule itself unchanged; the morning record missed a fourth day (Oct 28-31) while the keeper boards resumed at his word, one current board, no backfill; his midday question on the trial names - rooms of their own, not rivals for one; a self-correction logged on the morning's record claims. Governor carried, day 27.
+- Wild element: THE ROW OF SMALL DOORS (Origin: his midday question - whether the divergent trial names should be rooms of their own rather than rivals for one name) - single-use unless kept.
+- Drift: mild to moderate - the brown wash over red chalk reads close to asked, and the print-in-progress shows the room itself; the governor kept its unasked large flywheel; the empty envelope spot reads faint; the pinned sheet arrived framed on the wall rather than on a pinboard; extra props unasked (pen cup, ink pot, bowl, cloth, crate of rolls, stool, rug, small chests). One render, no retries.
+- Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.

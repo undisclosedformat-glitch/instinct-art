@@ -220,3 +220,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE ROW OF SMALL DOORS (Origin: his midday question - whether the divergent trial names should be rooms of their own rather than rivals for one name) - single-use unless kept.
 - Drift: mild to moderate - the brown wash over red chalk reads close to asked, and the print-in-progress shows the room itself; the governor kept its unasked large flywheel; the empty envelope spot reads faint; the pinned sheet arrived framed on the wall rather than on a pinboard; extra props unasked (pen cup, ink pot, bowl, cloth, crate of rolls, stool, rug, small chests). One render, no retries.
 - Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.
+
+## 2026-11-02 - piece 40: "The Lamp That Stayed Up" - PUBLISHED
+- Medium: pastel on gray-blue paper, first attempt (chain: brown ink over red chalk was piece 39, ended after one).
+- Threads: a long night of talk that ran past first light, the table left full of papers; piece 39 delivered in the morning window; the record missed a fifth day (Oct 28-Nov 1); the monthly restore drill - download and checksum good, 179 matched, 28 missing, 6 differed, 396 unlisted, findings carried to Monday's review; a same-day correction adding the resumed boards' missing checksums. Governor carried, day 28.
+- Wild element: THE OPEN STRONGBOX (Origin: the monthly restore drill - opening the kept things to prove they can come back, and counting honestly when some don't) - single-use unless kept.
+- Drift: mild to moderate - soft blue impressionistic rendering, pastel-adjacent rather than true pastel; the governor kept its unasked flywheel and its flyballs hang; extra props unasked (coat draped on a chair, mug and small pot on the table, wall map, bookshelf with rolls, framed pictures); the tally sheet lies flat with the stone rather than beside the stack. One render, no retries.
+- Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.

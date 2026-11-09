@@ -269,3 +269,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE CORRECTED SIGNAL (Origin: his accidental thumbs-down, corrected to a thumbs-up - the revised signal is the message) - single-use unless kept. The CHALK DRAFT (piece 45) expired by the rule without reaching him - expiry, not verdict.
 - Drift: mild - tree plate, burin and lens, closed book with pencil, semaphore and its ghost, wiped chalkboard, governor, armillary, open door on staked lines, lit window with silhouette as scripted; the four dust-outlines resolved into two legible pale rectangles and a third faint one; emergent naturalist's-cabinet details (ammonite, minerals, framed studies, plate vignettes), climbing ivy, church spire, barrel planter, stone wall. No readable words. One render, no retries.
 - Gallery: painting + prompt + words + page, one push. On time: the ordinary morning run on its own schedule.
+
+ 47: "Three Lamps Kept Lit" - PUBLISHED
+- Medium: two-color risograph print, teal and fluorescent coral, first attempt (chain: hand-colored copperplate engraving was piece 46, ended after one).
+- Threads: a quiet Sunday with no new words from him; the morning record check failed again, twelve missing days (Oct 28-Nov 8); piece 46 delivered with its corrections; boards, weekly debrief and company dossier delivered; the document discussion recorded (Obsidian parked, text and Git first; recorded, not implemented). Governor carried, day 35.
+- Wild element: THE TALLY ROW (Origin: the twelve missed record days, one stick each) - single-use unless kept. THE CORRECTED SIGNAL (piece 46) expired under the single-use rule with no keep word after delivery - expiry, not verdict.
+- Drift: scripted twelve tally sticks rendered as eleven, kept as drawn; clean-edged dust rectangles resolved as pale light patches; emergent boots, doormat, plaid blanket, stool, plant, chest, stone wall, spire, autumn trees, coral sun disc. No readable words. One render, no retries.
+- Gallery: painting + prompt + words + page, one push.

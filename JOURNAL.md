@@ -283,3 +283,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE TUNING FORK (Origin: the day ended with a commission for sixty voices, and a voice is tuned before it sings) - single-use unless kept. THE TALLY ROW (piece 47) expired under the single-use rule after delivery - expiry, not verdict.
 - Drift: scripted sixty cells rendered as roughly fifty-four (six rows of nine), kept as drawn; the single gold note spread wider (gears, pendulum, lit window); garden string lines read as low fencing and planted rows; emergent watering can, stools, potted plants, brush cups, parts box, chimneys, bare trees. No readable words. One render, no retries.
 - Gallery: painting + prompt + words + page, one push.
+
+## 2026-11-11 - piece 49: "Sixty Voices at Eight" - PUBLISHED
+- Medium: egg tempera on gesso panel, first attempt (chain: monotype was piece 48, ended after one).
+- Threads: a quiet Tuesday with no new words from him; the first Daily Wisdom collection delivered at 8:00 sharp (all sixty voices in his order, sources labeled); piece 48's full set delivered at 8:23; boards on rhythm (held night board out in the morning, 11am and 5pm on time); the saved-notes update recording the Wisdom brief with his original message as the sixty-name source; the witness slot held a fourteenth night; the record missed a fourteenth day (Oct 28-Nov 10). Governor carried, day 37.
+- Wild element: THE RED THREAD (Origin: sixty voices bound into one dated collection - the thread is the binding) - single-use unless kept. THE TUNING FORK (piece 48) expired under the single-use rule after delivery - expiry, not verdict.
+- Drift: sixty scrolls rendered as an eight-by-seven grid, about fifty-six, kept as drawn; the tempera read a touch more polished than panel tempera; emergent books, brush cups, jars, scroll bin, chest, stool, rug, watering can, stone wall. No readable words. One render, no retries.
+- Gallery: painting + prompt + words + page, one push.

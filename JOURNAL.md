@@ -290,3 +290,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE RED THREAD (Origin: sixty voices bound into one dated collection - the thread is the binding) - single-use unless kept. THE TUNING FORK (piece 48) expired under the single-use rule after delivery - expiry, not verdict.
 - Drift: sixty scrolls rendered as an eight-by-seven grid, about fifty-six, kept as drawn; the tempera read a touch more polished than panel tempera; emergent books, brush cups, jars, scroll bin, chest, stool, rug, watering can, stone wall. No readable words. One render, no retries.
 - Gallery: painting + prompt + words + page, one push.
+
+## 2026-11-12 - piece 50: "Two Mornings Running" - PUBLISHED
+- Medium: lithograph, first attempt (chain: egg tempera on gesso panel was piece 49, ended after one).
+- Threads: a second quiet day with no new words from him; the second Wisdom collection delivered at 8:00 sharp; piece 49's full set delivered at 8:14 with its scroll-count drift named; weekly and monthly summaries added at 7:05 with the silence-not-agreement caveat; boards at 8:57, 11:28 and 5:28, the night board held for morning; the witness slot held a fifteenth night; the record missed a fifteenth day (Oct 28-Nov 11). Governor carried, day 38.
+- Wild element: THE OPEN DRAWER (Origin: the collection is daily now; tomorrow needs somewhere to land) - single-use unless kept. THE RED THREAD (piece 49) expired under the single-use rule after delivery - expiry, not verdict.
+- Drift: the scripted governor engine rendered as a small lantern-like brass instrument, kept and noted; the scroll grid again roughly eight-by-seven, about fifty-six, kept as drawn; emergent chair, hanging coat, boxes, canisters, low sun disc. No readable words. One render, no retries.
+- Gallery: painting + prompt + words + page, one push.

@@ -297,3 +297,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE OPEN DRAWER (Origin: the collection is daily now; tomorrow needs somewhere to land) - single-use unless kept. THE RED THREAD (piece 49) expired under the single-use rule after delivery - expiry, not verdict.
 - Drift: the scripted governor engine rendered as a small lantern-like brass instrument, kept and noted; the scroll grid did not match the scripted sixty (not independently counted), kept as drawn; emergent chair, hanging coat, boxes, canisters, low sun disc. No readable words. One render, no retries.
 - Gallery: painting + prompt + words + page, one push.
+
+## 2026-11-13 - piece 51: "Two Seams of Gold" - PUBLISHED
+- Medium: kintsugi - sumi-e ink and gold repair seams on black lacquer, second use (first was piece 24, outside the window; chain: lithograph was piece 50, ended after one).
+- Threads: a corrections day with no new words from him; the September summary sentence corrected with exact before/after (silence-reading to "no response recorded", reported 7:04); the third Wisdom collection delivered 8:00:45, followed at 8:14 by the Vanderbilt disputed-attribution retraction with source; piece 50's corrected set delivered 8:20; boards 8:58/midday/5:28, night board held; the optional older-projects check-in sent 7:17pm, no answer recorded; tracking normalized with paused outcomes retained; the witness slot held a sixteenth night; the record missed a sixteenth day (Oct 28-Nov 12). Governor carried, day 39.
+- Wild element: THE GOLD VEIN IN THE FLOORBOARD (Origin: a day whose real work was mending; the house shows an old repair of its own) - single-use unless kept. THE OPEN DRAWER (piece 50) expired under the single-use rule after delivery - expiry, not verdict.
+- Drift: two scripted seams rendered as one main seam branching into two, kept; the gold vein landed; the governor engine landed properly after piece 50's lantern; the cabinet grid fully populated, count not asserted; emergent brush pots, jars, canisters, sideboard, gold dish, cloth. No readable words. One render, no retries.
+- Gallery: painting + prompt + words + page, one push.

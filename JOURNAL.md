@@ -370,3 +370,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Initial image attempt and three retries timed out (08:15, 08:16, 09:19, 12:22 Central). No image arrived after follow-up checks.
 - Standing ladder exhausted for a second day. Failure note only; no substitute, no completed piece 60, no new rendered medium, motif or naming triad.
 - The planned empty-easel picture remains unrealized. Nov 22's failure note and all earlier works are preserved; piece 59 remains the latest completed painting. No rule or schedule changes.
+
+## 2026-11-24 - piece 60: "One Card Left Crooked" - PUBLISHED
+- Medium: linocut print in three flat inks (indigo, ochre, cream), first use; rendered as a digital image in the linocut manner, not a hand print.
+- Threads: second no-painting day closed honestly (four timeouts, full failure words and dated note 12:27); saved-note attribution, count and Nov 22 description corrected (reviewed 1:56), one smaller error remaining and disclosed; twenty-seventh missed record day (Oct 28 - Nov 23); twenty-seventh held witness slot; Schumann 61 rows across 60 dates, 28 pending. Governor carried, day 50.
+- Wild element: THE ONE LEFT CROOKED (Origin: the smaller error still in the saved notes after the 1:56 review) - single-use unless kept. THE STRAIGHTENED FRAME (piece 59) expired under the single-use rule after delivery - expiry, not verdict.
+- Prompt: 2026-11-24.prompt.txt (not the unrealized Nov 23 cloisonne prompt).
+- Drift: linocut manner landed better but remains a digital image (extra garden color, finer shading); tall clock scripted blank-faced rendered with pale dial and twelve plain marks, no numerals, no hands - disclosed, kept; table clock rendered with two visible hands; cabinet count not asserted; ghost mark on a wooden panel between cells, one card level and one crooked; emergent fence, low wall, potted plant, two drawers. No readable words. One render, no content retries.
+- Gallery: painting + prompt + words + page, one push.

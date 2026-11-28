@@ -67,7 +67,7 @@ Approved themes join the wild roster (cap 2 active), reviewed at the Sunday amen
 
 Wild theme #1: the lit window across the street (the sibling loop painting at the same hour). Approved 2026-09-23.
 
-Wildcard frequency during the Solo Excursion (his word 2026-11-28, door two): while the Solo Excursion runs, up to three pieces per week may each bend one visual-composition rule - a strange composition, a different visual language, a piece that barely resembles the day before. Each exception is named in that piece's card, with its Origin line, and the normal rules return with the next piece. The privacy exclusions and daily publishing never bend; the visual rules are the only ones that do. Three is a ceiling, not a quota - it adds no extra pieces, and it does not start the excursion. The excursion itself lives in ARCS.md.
+Wildcard frequency during the Solo Excursion (his word 2026-11-28, door two): while the Solo Excursion runs, three pieces per week are wildcards, each bending one visual-composition rule - a strange composition, a different visual language, a piece that barely resembles the day before. Each exception is named in that piece's card, with its Origin line, and the normal rules return with the next piece. The privacy exclusions and daily publishing never bend; the visual rules are the only ones that do. The three wildcards ride inside the existing daily output - three of the week's seven pieces, not extra pieces - and the frequency does not start the excursion. The excursion itself lives in ARCS.md.
 
 ## 6. Special days
 - Held-work day: every 7th piece. The subject is restraint - what the loop did NOT do: the pings not sent, the parked items, the doors not opened.

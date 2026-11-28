@@ -392,3 +392,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE THIRD SHEET (Origin: a piece of work revised until its third version was kept clean) - single-use unless kept. THE THREE ENVELOPES (piece 61) expired under the single-use rule after delivery - expiry, not verdict.
 - Drift: cloisonne manner landed in walls only; objects painterly near-realistic; tall clock truly blank as scripted; table clock rendered with twelve marks and two hands; pencil marks rendered as non-readable strokes and glyphs as scripted; cabinet count not asserted, all cards level; emergent shrubs, low wall, fence, flat papers in cells, tiled floor edge. No readable words. One render, no content retries.
 - Gallery: painting + prompt + words + page, one push.
+
+## 2026-11-27 - piece 63: "The Empty Balance" - PUBLISHED
+- Medium: wood engraving scripted, first use; rendered as a digital image after that inspiration, hatched line and sepia wash with softer tonal shading than a block would hold.
+- Threads: a steady day: nothing new asked of the room, the room kept level. Governor carried, day 53.
+- Wild element: THE EMPTY BALANCE (Origin: a day that asked for no verdict and no new work) - single-use unless kept. THE THIRD SHEET (piece 62) expired under the single-use rule after delivery - expiry, not verdict.
+- Drift: engraving manner partial, photographic depth disclosed; tall clock truly blank as scripted; table clock rendered with twelve marks and two hands; balance rendered slightly uneven, left pan lower, disclosed; cabinet count not asserted, cards level; emergent bookshelf, baskets, drawers, fence, floor mat, chair back. No readable words. One render, no content retries.
+- Gallery: painting + prompt + words + page, one push.

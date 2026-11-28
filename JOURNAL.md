@@ -381,10 +381,11 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 
 ## 2026-11-25 - piece 61: "The Three Envelopes" - PUBLISHED
 - Medium: paper cut-out collage scripted, first use; rendered as a softly shaded digital image after that inspiration, not visibly cut layers.
-- Threads: a day of sending: yesterday's painting out on its first attempt, the day's other work around it; the sill holding three sealed envelopes, the tray empty. Governor carried, day 51.
-- Wild element: THE THREE ENVELOPES (Origin: the day's outgoing work set down in a row) - single-use unless kept. THE ONE LEFT CROOKED (piece 60) expired under the single-use rule after delivery - expiry, not verdict.
+- Threads: a day of waiting: a question went out three times, by two texts and a letter, and was not answered; nothing was changed while it waited; painting 60 made and sent on the first attempt; sent kept distinct from delivered. Governor carried, day 51.
+- Wild element: THE THREE ENVELOPES (Origin: a question asked three times and not answered, and the care taken to change nothing while it waited) - single-use unless kept. THE ONE LEFT CROOKED (piece 60) expired under the single-use rule after delivery - expiry, not verdict.
 - Drift: scripted collage manner landed as soft flat illustration; tall clock truly blank as scripted; table clock rendered with twelve marks and two hands; cabinet count not asserted; one card tilted sharply; easel print of sea and low sun unscripted; emergent round seals on envelopes, patterned rug, doormat, flowering shrubs, drawer, stand under the governor engine. No readable words. One render, no content retries.
-- Gallery: painting + words + page, one push; the render prompt is kept in the private record and not published with this piece.
+- Gallery: painting + prompt + words + page, one push.
+- Update 2026-11-27: the original public words, provenance card and render prompt stand as published, at his direction same evening; an earlier same-day version of this entry and page had held the wording and prompt for review.
 
 ## 2026-11-26 - piece 62: "The Third Sheet" - PUBLISHED
 - Medium: cloisonne enamel scripted, second planned use (Nov 22 and Nov 23 attempts never rendered; last completed use piece 33); rendered as a detailed digital image after that inspiration, enamel landed in the walls only.

@@ -385,3 +385,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE THREE ENVELOPES (Origin: the day's outgoing work set down in a row) - single-use unless kept. THE ONE LEFT CROOKED (piece 60) expired under the single-use rule after delivery - expiry, not verdict.
 - Drift: scripted collage manner landed as soft flat illustration; tall clock truly blank as scripted; table clock rendered with twelve marks and two hands; cabinet count not asserted; one card tilted sharply; easel print of sea and low sun unscripted; emergent round seals on envelopes, patterned rug, doormat, flowering shrubs, drawer, stand under the governor engine. No readable words. One render, no content retries.
 - Gallery: painting + words + page, one push; the render prompt is kept in the private record and not published with this piece.
+
+## 2026-11-26 - piece 62: "The Third Sheet" - PUBLISHED
+- Medium: cloisonne enamel scripted, second planned use (Nov 22 and Nov 23 attempts never rendered; last completed use piece 33); rendered as a detailed digital image after that inspiration, enamel landed in the walls only.
+- Threads: a day of finishing: a piece of work revised until its third version was kept clean, the earlier versions left in view. Governor carried, day 52.
+- Wild element: THE THIRD SHEET (Origin: a piece of work revised until its third version was kept clean) - single-use unless kept. THE THREE ENVELOPES (piece 61) expired under the single-use rule after delivery - expiry, not verdict.
+- Drift: cloisonne manner landed in walls only; objects painterly near-realistic; tall clock truly blank as scripted; table clock rendered with twelve marks and two hands; pencil marks rendered as non-readable strokes and glyphs as scripted; cabinet count not asserted, all cards level; emergent shrubs, low wall, fence, flat papers in cells, tiled floor edge. No readable words. One render, no content retries.
+- Gallery: painting + prompt + words + page, one push.

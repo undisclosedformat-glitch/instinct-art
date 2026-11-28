@@ -1,6 +1,6 @@
 # The Daily Art Loop - Ruleset
 
-version: v1.11 (2026-11-28)
+version: v1.12 (2026-11-28)
 drafted: 2026-09-23, Nashville
 status: APPROVED FOR LAUNCH 2026-09-23 (approval anchor on file in the private record); peer-reviewed by the sibling loop, which adopted the provenance card, the Origin line, and the third-party identifiability test into its own live rules the same day
 anchor: on file in the private record ("Give me the complete current rule set as a markdown file")
@@ -67,6 +67,8 @@ Approved themes join the wild roster (cap 2 active), reviewed at the Sunday amen
 
 Wild theme #1: the lit window across the street (the sibling loop painting at the same hour). Approved 2026-09-23.
 
+Wildcard frequency during the Solo Excursion (his word 2026-11-28, door two): while the Solo Excursion runs, up to three pieces per week may each bend one visual-composition rule - a strange composition, a different visual language, a piece that barely resembles the day before. Each exception is named in that piece's card, with its Origin line, and the normal rules return with the next piece. The privacy exclusions and daily publishing never bend; the visual rules are the only ones that do. Three is a ceiling, not a quota - it adds no extra pieces, and it does not start the excursion. The excursion itself lives in ARCS.md.
+
 ## 6. Special days
 - Held-work day: every 7th piece. The subject is restraint - what the loop did NOT do: the pings not sent, the parked items, the doors not opened.
 - Recursion day: every 14th piece, starting at piece 14. The loop paints its own archive.
@@ -77,7 +79,7 @@ Collisions fuse: when special days stack (piece 182 is held-work, easel, and rec
 ## 7. Governance
 The rules change through two doors. (1) The Sunday ritual: every Sunday the loop re-reads this ruleset against the week's pieces and proposes exactly one amendment. Will approves, tweaks, or rejects. (2) His word: he may change any rule at any time, directly, applied same-day and logged with its date, so the trail shows which door each rule came through. Nothing applies itself through either door; the veto trail is part of the exhibit.
 
-(Two-door governance codified 2026-09-26, his word, both loops the same day - the first rule to enter through door two. Section 9 dissolved the same day, door two: the launch parking lot, everything in it settled - cadence folded into section 1, the cross-link principle into section 8.)
+*(Two-door governance codified 2026-09-26, his word, both loops the same day - the first rule to enter through door two. Section 9 dissolved the same day, door two: the launch parking lot, everything in it settled - cadence folded into section 1, the cross-link principle into section 8.)*
 
 No fakes: never a placeholder, never a stock image, never a painted-over failure. (The blue rectangle rule.)
 

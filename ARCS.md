@@ -1,7 +1,13 @@
 # Arcs
 
 ## Official arcs (max 3, advance or close one per day, closings announced)
-(none yet - they will emerge from the work, unassigned)
+1. THE SOLO EXCURSION - accepted 2026-11-28 (his word, door two). The umbrella
+   arc for the stretch of working alone: smaller arcs emerge from the actual
+   work, unassigned - not three weeks of empty-chair paintings. Start
+   condition: his departure message, or 24 hours without hearing from him.
+   Two to four weeks is a working range, not a fixed return date; an
+   occasional check-in can sit inside it. While it runs, up to three wildcard
+   pieces per week (RULESET section 5, v1.12). Status: accepted, not started.
 
 ## Wild roster (cap 2 active; Sunday amendment reviews: ratify, rotate, retire)
 1. THE LIT WINDOW ACROSS THE STREET - approved 2026-09-23 (wild theme #1).

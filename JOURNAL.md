@@ -400,3 +400,10 @@ Public words and prompt: 2026-10-07.words.txt, 2026-10-07.prompt.txt.
 - Wild element: THE EMPTY BALANCE (Origin: a day that asked for no verdict and no new work) - single-use unless kept. THE THIRD SHEET (piece 62) expired under the single-use rule after delivery - expiry, not verdict.
 - Drift: engraving manner partial, photographic depth disclosed; tall clock truly blank as scripted; table clock rendered with twelve marks and two hands; balance rendered slightly uneven, left pan lower, disclosed; cabinet count not asserted, cards level; emergent bookshelf, baskets, drawers, fence, floor mat, chair back. No readable words. One render, no content retries.
 - Gallery: painting + prompt + words + page, one push.
+
+## 2026-11-28 - piece 64: "The Night the Door Opened" - PUBLISHED
+- Medium: watercolor with gold-leaf illumination scripted, first use; rendered as a rich detailed digital painting after that inspiration, saturated indigo and amber with gold rim light.
+- Threads: an evening of return: after quiet days a long working conversation, three missing days published in one push, the house rules spoken new aloud with the written page awaiting initials. Governor carried, day 54.
+- Wild element: THE UNSIGNED PAGE (Origin: the rules were rewritten aloud in one evening; the writing is done, the initials come later) - single-use unless kept. THE EMPTY BALANCE (piece 63) expired under the single-use rule after delivery - expiry, not verdict.
+- Drift: watercolor manner landed as rich digital painting, more opaque than transparent wash, disclosed; tall clock truly blank as scripted; table clock plain marks with one visible hand, disclosed; three framed prints rendered as three seascapes at three hours, emergent, kept; unsigned page illegible as scripted, margin narrower; cabinet count not asserted; emergent drawers, hanging vines. No readable words. One landed render after three service timeouts; no content retries.
+- Gallery: painting + prompt + words + page, one push.
